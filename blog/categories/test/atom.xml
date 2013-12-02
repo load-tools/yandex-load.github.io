@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Yandex Load Team]]></title>
-  <link href="http://yandex-load.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: test | Yandex Load Team]]></title>
+  <link href="http://yandex-load.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://yandex-load.github.io/"/>
   <updated>2013-12-02T18:44:01+04:00</updated>
   <id>http://yandex-load.github.io/</id>
@@ -14,16 +14,12 @@
 
   
   <entry>
-    
     <title type="html"><![CDATA[Hello world]]></title>
     <link href="http://yandex-load.github.io/blog/2013/12/02/hello-world/"/>
-    
     <updated>2013-12-02T18:15:35+04:00</updated>
     <id>http://yandex-load.github.io/blog/2013/12/02/hello-world</id>
-    
     <content type="html"><![CDATA[
 ]]></content>
-    
   </entry>
   
 </feed>
